@@ -1,6 +1,8 @@
 # rsimsum
 Analyses of simulation studies including Monte Carlo error Use simsum (rsimsum) With (In) R Software
 
+https://www.youtube.com/watch?v=V20tsTcndcI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
